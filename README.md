@@ -1,3 +1,3 @@
 # Awais Ahmad
-pakistani hackers 03036455407
+pakistani hackers
 developing clonning commands in termux for clonning
