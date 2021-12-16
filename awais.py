@@ -39,7 +39,7 @@ def jalan(z):
 logo = """
    Awais Ahmad
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS Awais Ahmad 
+   THE ANONYMOUS 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    pakistani hackers
